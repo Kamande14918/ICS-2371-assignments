@@ -13,5 +13,5 @@ int main(){
     printf("Sum of the two numbers is:\n",sum);
     printf("Difference of the two numbers is:\n",diff);
     printf("Summation and Difference of the two numbers are:%f\t%f\t",sum,diff);
-
+  return 0;
 }
