@@ -1,3 +1,7 @@
+//KAMANDE KENNEDY KAMAU
+//ENE212-0169/2021
+
+
 #include <stdio.h>
 
 #define ROW1 2
